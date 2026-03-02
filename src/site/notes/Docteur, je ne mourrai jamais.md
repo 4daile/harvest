@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docteur-je-ne-mourrai-jamais/","tags":["nouvelle"]}
+{"dg-publish":true,"permalink":"/docteur-je-ne-mourrai-jamais/"}
 ---
 
 « Tu es déjà morte. »
