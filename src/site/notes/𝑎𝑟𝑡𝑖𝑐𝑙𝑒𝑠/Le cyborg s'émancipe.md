@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/le-cyborg-s-emancipe/","tags":["article"]}
+{"dg-publish":true,"permalink":"//le-cyborg-s-emancipe/","tags":["article"]}
 ---
 
 ### Introduction : Manifeste Cyborg
@@ -12,7 +12,7 @@ Mais qu’est-ce qu’un cyborg ? Quels sens prend-il, quelle place occupe-t-il 
 
 ### Guerre des étoiles
 
-[
+
 
 ![](https://substackcdn.com/image/fetch/$s_!UNSU!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F63a2d57c-57e0-4104-91f4-e371f1134158_640x838.jpeg)
 
@@ -40,7 +40,7 @@ Norbert Wiener est un mathématicien et théoricien américain, notamment consid
 
 Le terme cyborg se popularise en 1960 par deux hommes; le neurophysiologiste Manfred Clynes et le psychiatre Nathan S. Kline . En pleine “Course à l’espace”, ils suggèrent la création d’un être capable de résister à toute sorte d’environnements lors de sa colonisation spatiale. Il faudrait croiser l’organisme humain aux machines pour enfanter un être évolué. Ce terme est réapproprié par les auteurs et autrices de science-fiction dans un contexte sociétale oscillant entre l’insécurité de la Guerre froide et la fascination des technologies en plein essor.
 
-[
+
 
 ![](https://substackcdn.com/image/fetch/$s_!qslA!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F47d70250-8f87-4a79-8944-2bc9e8562425_1600x867.jpeg)
 
@@ -112,5 +112,5 @@ Le cyborg est un être construit sur une contradiction immense, il est bancal, a
 - Xavier de la Porte, Donna Haraway, “[Ecouter Donna Haraway parler de cyborg sous un arbre](https://www.radiofrance.fr/franceinter/podcasts/le-code-a-change/ecouter-donna-haraway-parler-de-cyborg-sous-un-arbre-8258430)” dans Le code a changé, France Inter, 17 août 2023
     
 
-[  
+
 ](https://confessionalweb.substack.com/p/le-cyborg-semancipe?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjozOTc4NDM1NDgsInBvc3RfaWQiOjE3Nzk3MDEwOCwiaWF0IjoxNzcyNDY2NjYwLCJleHAiOjE3NzUwNTg2NjAsImlzcyI6InB1Yi02ODA0MTI2Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.3O0Z85MRME0hjBgCV2ph9zF4T6UXcq-5y0qIOfNtZdI)
