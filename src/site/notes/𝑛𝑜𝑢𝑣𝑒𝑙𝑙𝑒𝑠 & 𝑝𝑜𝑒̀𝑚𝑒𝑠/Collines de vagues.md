@@ -37,7 +37,8 @@ J’ai vu les nuages avancer en m’arrêtant, j’ai encore le goût des fraise
 l’odeur du rouge à lèvre dans la tête et la douceur de ta peau sur la pulpe de mes doigts. 
 
 
-C’est ce monde rempli de fragments qui me contemple, qui me façonne, qui me murmure toujours quelque chose. 
+C’est ce monde rempli de fragments qui me contemple, 
+qui me façonne, qui me murmure toujours quelque chose. 
 Souvent une réponse, ou une question, mais jamais les deux à la fois. 
 
 
