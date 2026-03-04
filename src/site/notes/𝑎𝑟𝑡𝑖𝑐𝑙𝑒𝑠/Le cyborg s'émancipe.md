@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"//le-cyborg-s-emancipe/"}
 ---
 
-### ntroduction : Manifeste Cyborg
+### Introduction : Manifeste Cyborg
 
 Donna Haraway tisse un monde dans lequel coexistent de nombreuses références et de nombreuses pensées. Elle est diplômée de philosophie et de zoologie à l’Université du Colorado et achève sa thèse de biologie à Yale en 1972. Ses recherches sur le féminisme l’ont rendu incontournable, influençant et guidant ainsi d’autres chercheuses sur le cyberféminisme. Elle est aussi historienne des sciences et se penche notamment sur nos relations avec les autres espèces. Son intérêt pour les nouvelles technologies et les technosicences joue un rôle important dans ses travaux. Pour résumer, Donna Haraway est une référence intellectuelle majeure, elle est lue partout dans le monde et invoquée à travers de nombreux sujets. Devenu très important pour l’histoire du féminisme, Le _Manifeste Cyborg_, est publié d’abord en 1985 dans la _Socialist Review_ puis en 1991 dans son livre _Simians, Cyborgs and Women : Reinvention of Nature_. La lecture de cet essai est assommante, déroutante. Nous nous retrouvons comme transportés dans un labyrinthe immense où toutes nos coordonnées sociales, politiques et philosophiques se retrouveraient brouillées.
 
