@@ -1,5 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/nouvelle/docteur-je-ne-mourrai-jamais/","tags":["nouvelle"]}
+dg-publish: true
+title: "Docteur, je ne mourrai jamais"
+tags:
+  - nouvelle
+écrite: 2022-10-14
 ---
 
 « Tu es déjà morte. »
