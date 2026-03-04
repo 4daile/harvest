@@ -1,12 +1,7 @@
 ---
-dg-publish: true
-dg-home: true
-dg-pinned: true
-tags:
-  - gardenEntry
-title: "ℎ𝑎𝑟𝑣𝑒𝑠𝑡"
-permalink: /
+{"dg-publish":true,"permalink":"/home/","title":"ℎ𝑎𝑟𝑣𝑒𝑠𝑡","pinned":true,"tags":["gardenEntry"]}
 ---
+
 
 bienvenue dans mon jardin digital. Je m'appelle [adèle](https://4daile.github.io/PORTFOLIO/) et j'écris parfois.
 
@@ -16,7 +11,7 @@ bienvenue dans mon jardin digital. Je m'appelle [adèle](https://4daile.github.i
 
 Des textes courts, des fragments, des histoires.
 
-→ [[Docteur, je ne mourrai jamais]]
+→ [[𝑛𝑜𝑢𝑣𝑒𝑙𝑙𝑒𝑠 & 𝑝𝑜𝑒̀𝑚𝑒𝑠/Docteur, je ne mourrai jamais\|Docteur, je ne mourrai jamais]]
 
 ---
 
@@ -24,6 +19,6 @@ Des textes courts, des fragments, des histoires.
 
 Réflexions, essais, explorations.
 
-→ [[Le cyborg s'émancipe]]
+→ [[𝑎𝑟𝑡𝑖𝑐𝑙𝑒𝑠/Le cyborg s'émancipe\|Le cyborg s'émancipe]]
 
 ---
