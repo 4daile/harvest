@@ -105,6 +105,3 @@ Le cyborg est un être construit sur une contradiction immense, il est bancal, a
     
 - Xavier de la Porte, Donna Haraway, “[Ecouter Donna Haraway parler de cyborg sous un arbre](https://www.radiofrance.fr/franceinter/podcasts/le-code-a-change/ecouter-donna-haraway-parler-de-cyborg-sous-un-arbre-8258430)” dans Le code a changé, France Inter, 17 août 2023
     
-
-
-](https://confessionalweb.substack.com/p/le-cyborg-semancipe?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjozOTc4NDM1NDgsInBvc3RfaWQiOjE3Nzk3MDEwOCwiaWF0IjoxNzcyNDY2NjYwLCJleHAiOjE3NzUwNTg2NjAsImlzcyI6InB1Yi02ODA0MTI2Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.3O0Z85MRME0hjBgCV2ph9zF4T6UXcq-5y0qIOfNtZdI)
