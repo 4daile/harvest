@@ -34,49 +34,47 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
 
       {{ content | hideDataview | taggify | link | safe }}
 
-      {# ===== DERNIÈRES PUBLICATIONS - CARTES ===== #}
-      <section class="recent-cards-section">
-        <h2 class="recent-cards-title">dernières publications</h2>
-        <div class="recent-cards-grid">
+      {# ===== TABLEAU DES DERNIÈRES PUBLICATIONS ===== #}
+      <section class="recent-table-section">
+        <h2 class="recent-table-heading">dernières publications</h2>
+        <table class="recent-table">
+          <thead>
+            <tr>
+              <th>titre</th>
+              <th>catégorie</th>
+            </tr>
+          </thead>
+          <tbody>
+            {%- set rowCount = 0 -%}
+            {%- for note in collections.all | reverse -%}
+              {%- if note.data["dg-publish"] and note.data.tags and "gardenEntry" not in note.data.tags -%}
+                {%- if rowCount < 10 -%}
 
-          {%- set cardColors = ["card--yellow", "card--orange", "card--blue", "card--green", "card--pink"] -%}
-          {%- set cardCount = 0 -%}
-
-          {%- for note in collections.all | reverse -%}
-            {%- if note.data["dg-publish"] and note.data.tags and "gardenEntry" not in note.data.tags -%}
-              {%- if cardCount < 6 -%}
-
-                {%- set colorClass = cardColors[cardCount % 5] -%}
-
-                {%- set categoryLabel = "" -%}
-                {%- if note.data.tags -%}
+                  {%- set categoryLabel = "" -%}
                   {%- if "nouvelle" in note.data.tags -%}{%- set categoryLabel = "nouvelle" -%}
                   {%- elif "article" in note.data.tags -%}{%- set categoryLabel = "article" -%}
                   {%- elif "blog" in note.data.tags -%}{%- set categoryLabel = "blog" -%}
                   {%- endif -%}
+
+                  <tr>
+                    <td>
+                      <a href="{{ note.url }}" class="internal-link">
+                        {% if note.data.title %}{{ note.data.title }}{% else %}{{ note.fileSlug }}{% endif %}
+                      </a>
+                    </td>
+                    <td>
+                      {% if categoryLabel %}
+                        <span class="recent-table-tag recent-table-tag--{{ categoryLabel }}">{{ categoryLabel }}</span>
+                      {% endif %}
+                    </td>
+                  </tr>
+
+                  {%- set rowCount = rowCount + 1 -%}
                 {%- endif -%}
-
-                <a href="{{ note.url }}" class="note-card {{ colorClass }}">
-                  <div class="note-card-inner">
-                    {% if categoryLabel %}
-                      <span class="note-card-tag">{{ categoryLabel }}</span>
-                    {% endif %}
-                    <h3 class="note-card-title">
-                      {% if note.data.title %}{{ note.data.title }}{% else %}{{ note.fileSlug }}{% endif %}
-                    </h3>
-                    {% if note.data.description %}
-                      <p class="note-card-excerpt">{{ note.data.description }}</p>
-                    {% endif %}
-                    <span class="note-card-arrow">→</span>
-                  </div>
-                </a>
-
-                {%- set cardCount = cardCount + 1 -%}
               {%- endif -%}
-            {%- endif -%}
-          {%- endfor -%}
-
-        </div>
+            {%- endfor -%}
+          </tbody>
+        </table>
       </section>
 
       {% for imp in dynamics.common.afterContent %}
