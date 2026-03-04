@@ -16,10 +16,6 @@ Mais qu’est-ce qu’un cyborg ? Quels sens prend-il, quelle place occupe-t-il 
 
 ![](https://substackcdn.com/image/fetch/$s_!UNSU!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F63a2d57c-57e0-4104-91f4-e371f1134158_640x838.jpeg)
 
-
-
-](https://substackcdn.com/image/fetch/$s_!UNSU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F63a2d57c-57e0-4104-91f4-e371f1134158_640x838.jpeg)
-
 Lucasfilm. (1980). Star Wars: L’Empire contre-attaque [Affiche de film].
 
 8 mars 1983, Ronald Reagan (alors président des Etats-Unis) se présente à Orlando,  
@@ -45,8 +41,6 @@ Le terme cyborg se popularise en 1960 par deux hommes; le neurophysiologiste Man
 ![](https://substackcdn.com/image/fetch/$s_!qslA!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F47d70250-8f87-4a79-8944-2bc9e8562425_1600x867.jpeg)
 
 
-
-](https://substackcdn.com/image/fetch/$s_!qslA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F47d70250-8f87-4a79-8944-2bc9e8562425_1600x867.jpeg)
 
 Verhoeven Paul,1987, _RoboCop_ [Extrait du film]. Orion Pictures.
 
