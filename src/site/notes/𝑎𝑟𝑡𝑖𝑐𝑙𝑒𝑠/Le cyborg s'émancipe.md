@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//le-cyborg-s-emancipe/","tags":["article"]}
+{"dg-publish":true,"permalink":"/le-cyborg-s-emancipe/","tags":["article"]}
 ---
 
 ### Introduction : Manifeste Cyborg
