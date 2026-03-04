@@ -1,5 +1,6 @@
-/* ===== DIGITAL GARDEN - CATÉGORIES & HOME ===== */
+/* ===== DIGITAL GARDEN - HOME & CATÉGORIES ===== */
 
+/* --- Catégories existantes --- */
 .garden-categories {
   margin-top: 2.5rem;
   display: flex;
@@ -9,7 +10,7 @@
 
 .garden-category,
 .recent-notes {
-  border-left: 2px solid var(--text-accent, #7c6f64);
+  border-left: 2px solid var(--text-accent, #61baf5);
   padding-left: 1.2rem;
 }
 
@@ -66,136 +67,94 @@
   font-style: italic;
 }
 
-/* ===== CARTES DERNIÈRES PUBLICATIONS ===== */
+/* ===== TABLEAU DERNIÈRES PUBLICATIONS ===== */
 
-.recent-cards-section {
+.recent-table-section {
   margin-top: 3rem;
 }
 
-.recent-cards-title {
-  font-size: 0.8rem !important;
+.recent-table-heading {
+  font-size: 0.75rem !important;
   font-weight: 400;
-  letter-spacing: 0.12em;
+  letter-spacing: 0.14em;
   text-transform: uppercase;
   color: var(--text-faint) !important;
-  margin-bottom: 1.4rem !important;
+  margin-bottom: 1rem !important;
   margin-top: 0 !important;
   border: none !important;
 }
 
-.recent-cards-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-  gap: 1rem;
+.recent-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
 }
 
-/* Carte de base */
-.note-card {
-  display: block;
-  text-decoration: none;
-  border-radius: 10px;
-  padding: 1.4rem 1.2rem;
-  position: relative;
-  overflow: hidden;
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
-  min-height: 140px;
-  cursor: pointer;
+.recent-table thead tr {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.07);
 }
 
-.note-card:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
-  text-decoration: none;
-}
-
-.note-card-inner {
-  display: flex;
-  flex-direction: column;
-  gap: 0.5rem;
-  height: 100%;
-}
-
-/* Couleurs des cartes — accordées au thème */
-.card--yellow {
-  background: rgba(255, 239, 96, 0.1);
-  border: 1px solid rgba(255, 239, 96, 0.25);
-}
-.card--yellow .note-card-title { color: #ffef60; }
-.card--yellow .note-card-tag { color: rgba(255, 239, 96, 0.6); }
-.card--yellow .note-card-arrow { color: rgba(255, 239, 96, 0.5); }
-
-.card--orange {
-  background: rgba(240, 100, 73, 0.1);
-  border: 1px solid rgba(240, 100, 73, 0.25);
-}
-.card--orange .note-card-title { color: #f06449; }
-.card--orange .note-card-tag { color: rgba(240, 100, 73, 0.6); }
-.card--orange .note-card-arrow { color: rgba(240, 100, 73, 0.5); }
-
-.card--blue {
-  background: rgba(97, 186, 245, 0.1);
-  border: 1px solid rgba(97, 186, 245, 0.25);
-}
-.card--blue .note-card-title { color: #61baf5; }
-.card--blue .note-card-tag { color: rgba(97, 186, 245, 0.6); }
-.card--blue .note-card-arrow { color: rgba(97, 186, 245, 0.5); }
-
-.card--green {
-  background: rgba(212, 252, 195, 0.08);
-  border: 1px solid rgba(212, 252, 195, 0.2);
-}
-.card--green .note-card-title { color: #d4fcc3; }
-.card--green .note-card-tag { color: rgba(212, 252, 195, 0.5); }
-.card--green .note-card-arrow { color: rgba(212, 252, 195, 0.4); }
-
-.card--pink {
-  background: rgba(255, 150, 200, 0.08);
-  border: 1px solid rgba(255, 150, 200, 0.2);
-}
-.card--pink .note-card-title { color: #ff96c8; }
-.card--pink .note-card-tag { color: rgba(255, 150, 200, 0.5); }
-.card--pink .note-card-arrow { color: rgba(255, 150, 200, 0.4); }
-
-/* Contenu de la carte */
-.note-card-tag {
-  font-size: 0.68rem;
+.recent-table th {
+  text-align: left;
+  font-size: 0.7rem;
+  font-weight: 400;
   letter-spacing: 0.1em;
   text-transform: uppercase;
+  color: var(--text-faint);
+  padding: 0 0.8rem 0.6rem 0;
+}
+
+.recent-table td {
+  padding: 0.6rem 0.8rem 0.6rem 0;
+  vertical-align: middle;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.04);
+}
+
+.recent-table tr:last-child td {
+  border-bottom: none;
+}
+
+.recent-table tr:hover td {
+  background: rgba(255, 255, 255, 0.02);
+}
+
+.recent-table a {
+  color: var(--text-normal);
+  text-decoration: none;
+  transition: color 0.15s ease;
+}
+
+.recent-table a:hover {
+  color: var(--text-accent);
+}
+
+/* Tags colorés par catégorie */
+.recent-table-tag {
+  display: inline-block;
+  font-size: 0.68rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 2px 8px;
+  border-radius: 20px;
   font-weight: 500;
 }
 
-.note-card-title {
-  font-size: 1rem !important;
-  font-weight: 500;
-  line-height: 1.35;
-  margin: 0 !important;
-  border: none !important;
-  flex-grow: 1;
+.recent-table-tag--nouvelle {
+  background: rgba(255, 239, 96, 0.12);
+  color: #ffef60;
 }
 
-.note-card-excerpt {
-  font-size: 0.8rem;
-  color: var(--text-muted);
-  line-height: 1.5;
-  margin: 0;
-  display: -webkit-box;
-  -webkit-line-clamp: 2;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
+.recent-table-tag--article {
+  background: rgba(240, 100, 73, 0.12);
+  color: #f06449;
 }
 
-.note-card-arrow {
-  font-size: 1.1rem;
-  align-self: flex-end;
-  transition: transform 0.2s ease;
-  margin-top: 0.5rem;
+.recent-table-tag--blog {
+  background: rgba(97, 186, 245, 0.12);
+  color: #61baf5;
 }
 
-.note-card:hover .note-card-arrow {
-  transform: translateX(4px);
-}
-
-/* ===== HEAD BANNER ===== */
+/* 
 
 .note-banner {
   width: 100%;
@@ -209,22 +168,16 @@
   max-height: 280px;
   object-fit: cover;
   display: block;
-}
+} */
 
 /* ===== RESPONSIVE ===== */
 
 @media (max-width: 600px) {
-  .recent-cards-grid {
-    grid-template-columns: 1fr 1fr;
-    gap: 0.75rem;
+  .recent-table {
+    font-size: 0.85rem;
   }
-
-  .note-card {
-    min-height: 110px;
-    padding: 1rem;
-  }
-
-  .note-card-title {
-    font-size: 0.9rem !important;
+  .recent-table th:last-child,
+  .recent-table td:last-child {
+    display: none;
   }
 }
