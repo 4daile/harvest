@@ -1,0 +1,68 @@
+/* ===== DIGITAL GARDEN - CATÉGORIES & HOME ===== */
+
+.garden-categories {
+  margin-top: 2.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.garden-category,
+.recent-notes {
+  border-left: 2px solid var(--text-accent, #7c6f64);
+  padding-left: 1.2rem;
+}
+
+.recent-notes {
+  margin-top: 2.5rem;
+}
+
+.category-title {
+  font-size: 1rem !important;
+  font-weight: 500;
+  letter-spacing: 0.03em;
+  color: var(--text-muted) !important;
+  margin-bottom: 0.6rem !important;
+  margin-top: 0 !important;
+  text-transform: lowercase;
+  border: none !important;
+}
+
+.category-notes {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.category-notes li {
+  display: flex;
+  align-items: baseline;
+  gap: 0.8rem;
+}
+
+.category-notes a {
+  color: var(--text-normal);
+  text-decoration: none;
+  font-size: 0.95rem;
+  transition: color 0.15s ease;
+}
+
+.category-notes a:hover {
+  color: var(--text-accent);
+}
+
+.note-date {
+  font-size: 0.75rem;
+  color: var(--text-faint);
+  font-style: italic;
+}
+
+/* Message si catégorie vide */
+.category-empty {
+  font-size: 0.85rem;
+  color: var(--text-faint);
+  font-style: italic;
+}
