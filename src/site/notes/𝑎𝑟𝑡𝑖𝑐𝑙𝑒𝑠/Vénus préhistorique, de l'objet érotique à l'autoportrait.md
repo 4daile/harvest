@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//venus-prehistorique-de-l-objet-erotique-a-l-autoportrait/","tags":["article"]}
+{"dg-publish":true,"permalink":"/venus-prehistorique-de-l-objet-erotique-a-l-autoportrait/","tags":["article"]}
 ---
 
 ## Vénus préhistorique : de l'objet érotique à l'auto-portrait
