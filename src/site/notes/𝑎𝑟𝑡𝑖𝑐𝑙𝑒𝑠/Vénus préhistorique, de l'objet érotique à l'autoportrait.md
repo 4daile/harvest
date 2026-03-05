@@ -28,9 +28,7 @@ Cette théorie est réfutée par de nombreux ethnologues, notamment Leroy McDerm
 
 (2)
 
-![comparaison 2jpg](file://C:%5CUsers%5Cadele%5CDocuments%5CESAD%5CL2%20ESAD%5CS3%5CRECHERCHES%20PERSO%5CVENUS%5Cimg%5Ccomparaison%202.jpg?msec=1772725393903)
-
-![comparaison 3jpg](file://C:%5CUsers%5Cadele%5CDocuments%5CESAD%5CL2%20ESAD%5CS3%5CRECHERCHES%20PERSO%5CVENUS%5Cimg%5Ccomparaison%203.jpg?msec=1772725402492)
+![comparaison 2jpg](/img/comparaison 2.jpg)
 
 "Vue depuis le haut d'une femme de 30 ans, enceinte de quatre mois (haut) ; même vue de la figurine de Lespuge (bas)" © LeRoy McDermott
 
@@ -40,7 +38,7 @@ Les fouilles archéologiques ont le plus souvent retrouvé les Vénus dans un ha
 
 (3)
 
-![venus grimaldi jpg](file://C:%5CUsers%5Cadele%5CDocuments%5CESAD%5CL2%20ESAD%5CS3%5CRECHERCHES%20PERSO%5CVENUS%5Cimg%5Cvenus%20grimaldi%20.jpg?msec=1772725352934)
+![venus grimaldi jpg](img/comparaison 3.jpg)
 
 Vénus de Grimaldi appelée "La femme au cou perforé", vers 22 000 ans av. J.-C
 
