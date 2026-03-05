@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/venus-prehistorique-de-l-objet-erotique-a-l-autoportrait/","tags":["article"]}
+{"dg-publish":true,"permalink":"//venus-prehistorique-de-l-objet-erotique-a-l-autoportrait/","tags":["article"]}
 ---
 
 ## Vénus préhistorique : de l'objet érotique à l'auto-portrait
@@ -18,7 +18,7 @@ Les Vénus préhistoriques sont abondantes en nombre, mais aussi en formes, en m
 
 (1)
 
-[willendorfjpg](file://C:%5CUsers%5Cadele%5CDocuments%5CESAD%5CL2%20ESAD%5CS3%5CRECHERCHES%20PERSO%5CVENUS%5Cimg%5Cwillendorf.jpg?msec=1772725303803)
+![willendorfjpg](/img/willendorf.jpg)
 
 **Venus de Willendorf**, entre 22 000 et 21 000 av. J.-C., découverte en 1908, calcaire oolithique, 11cm, conservée au Musée d'histoire naturelle de Vienne (Autriche)
 
@@ -28,9 +28,9 @@ Cette théorie est réfutée par de nombreux ethnologues, notamment Leroy McDerm
 
 (2)
 
-[comparaison 2jpg](file://C:%5CUsers%5Cadele%5CDocuments%5CESAD%5CL2%20ESAD%5CS3%5CRECHERCHES%20PERSO%5CVENUS%5Cimg%5Ccomparaison%202.jpg?msec=1772725393903)
+![comparaison 2jpg](file://C:%5CUsers%5Cadele%5CDocuments%5CESAD%5CL2%20ESAD%5CS3%5CRECHERCHES%20PERSO%5CVENUS%5Cimg%5Ccomparaison%202.jpg?msec=1772725393903)
 
-[comparaison 3jpg](file://C:%5CUsers%5Cadele%5CDocuments%5CESAD%5CL2%20ESAD%5CS3%5CRECHERCHES%20PERSO%5CVENUS%5Cimg%5Ccomparaison%203.jpg?msec=1772725402492)
+![comparaison 3jpg](file://C:%5CUsers%5Cadele%5CDocuments%5CESAD%5CL2%20ESAD%5CS3%5CRECHERCHES%20PERSO%5CVENUS%5Cimg%5Ccomparaison%203.jpg?msec=1772725402492)
 
 "Vue depuis le haut d'une femme de 30 ans, enceinte de quatre mois (haut) ; même vue de la figurine de Lespuge (bas)" © LeRoy McDermott
 
@@ -40,7 +40,7 @@ Les fouilles archéologiques ont le plus souvent retrouvé les Vénus dans un ha
 
 (3)
 
-[venus grimaldi jpg](file://C:%5CUsers%5Cadele%5CDocuments%5CESAD%5CL2%20ESAD%5CS3%5CRECHERCHES%20PERSO%5CVENUS%5Cimg%5Cvenus%20grimaldi%20.jpg?msec=1772725352934)
+![venus grimaldi jpg](file://C:%5CUsers%5Cadele%5CDocuments%5CESAD%5CL2%20ESAD%5CS3%5CRECHERCHES%20PERSO%5CVENUS%5Cimg%5Cvenus%20grimaldi%20.jpg?msec=1772725352934)
 
 Vénus de Grimaldi appelée "La femme au cou perforé", vers 22 000 ans av. J.-C
 
@@ -76,7 +76,7 @@ Aucune de ces théories ne peut être vraiment prouvée et il en existe d'autres
     
 - _La thématique féminine au cours du Paléolithique supérieur européen : permanences et variations formelles_, Raphaëlle Bourrillon, Carole Fritz, Georges Sauvet, [article], Bulletin de la société préhistorique française, 2012, p. 85-103
     
-- _Vénus, les représentations féminines de la préhistoire - dans le cadre du centenaire de la découverte de la vénus de Lespugue_, Musée de L'Aurignacien, [Dossier de Presse], exposition du 6 juillet au 11 décembre 2022
+- _*Vénus, les représentations féminines de la préhistoire - dans le cadre du centenaire de la découverte de la vénus de Lespugue_, Musée de L'Aurignacien, [Dossier de Presse], exposition du 6 juillet au 11 décembre 2022
     
 - _Manifeste cyborg et autres essais_, Donna Haraway, 1984, exils éditeur
     
