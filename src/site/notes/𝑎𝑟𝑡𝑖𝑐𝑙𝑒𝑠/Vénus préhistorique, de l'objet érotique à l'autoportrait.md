@@ -28,8 +28,8 @@ Cette théorie est réfutée par de nombreux ethnologues, notamment Leroy McDerm
 
 (2)
 
-![comparaison 2jpg](/img/comparaison 2.jpg)
-
+![comparaison 2jpg](/img/comparaison-2.jpg)
+![comparaison 2jpg](/img/comparaison-3.jpg)
 "Vue depuis le haut d'une femme de 30 ans, enceinte de quatre mois (haut) ; même vue de la figurine de Lespuge (bas)" © LeRoy McDermott
 
 La grossesse est un moment très important dans la vie d'une femme, mais il est aussi très mystérieux. Cette transformation du corps peut s'avérer effrayante et douloureuse, ou au contraire, magique, porteuse d'un sens plus profond et plus spirituel. Pendant très longtemps, on voyait les Vénus comme un culte de la fécondité et un appel à la procréation, cette idée a notamment été portée par l'Abbé Breuil ⁶, persuadé que tout l'art paléolithique était tourné vers la fécondité.
@@ -38,8 +38,7 @@ Les fouilles archéologiques ont le plus souvent retrouvé les Vénus dans un ha
 
 (3)
 
-![venus grimaldi jpg](img/comparaison 3.jpg)
-
+![venus grimaldi jpg](img/venus-grimaldi.jpg)
 Vénus de Grimaldi appelée "La femme au cou perforé", vers 22 000 ans av. J.-C
 
 Le culte de la "Déesse mère" est une théorie dans laquelle la femme serait placée au premier plan, dans une société matriarcale des origines où elle aurait la mainmise sur la société et le reste des individus. La Déesse mère est un être cosmique, un symbole de la fertilité des Hommes et de la terre, c'est un pouvoir qui pourrait alors expliquer les nombreuses représentations de femmes en son honneur. Cette théorie court depuis le 19ème siècle et malgré les nombreuses critiques qui l'accompagnent, cette idée d'un pouvoir matriarcal des origines revient régulièrement sur le devant de la scène anthropologique. On peut tout de même noter que l'archéologie féministe contemporaine veut se débarrasser de ce schéma enraciné dans les esprits et arrêter d'accorder aux femmes du passé un pouvoir qu'elles n'ont sans doute jamais eu. Voici un extrait très parlant du livre _La femme des origines, images de la femme dans la préhistoire occidentale_ (2003), de Claudine Cohen, qui exprime cette idée ; "Cautionner le mythe de la déesse préhistorique, c'est pérenniser en la divinisant l'image éternelle de la femme définie par sa passivité et sa fécondité, laissant au héros mâle le privilège de l'individualité et de l'action.". C'est une idée qu'on retrouve chez Donna Haraway⁸, notamment lorsqu'elle construit son cyborg pour effacer et contrer tous ces mythes des origines qui retiennent encore la femme dans un carcan de verre.
